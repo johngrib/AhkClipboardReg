@@ -1,0 +1,2 @@
+# AhkClipboardReg
+Autohotkey clipboard register
