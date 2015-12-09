@@ -5,7 +5,7 @@ AhkClipboardReg 는 VIM like 네비게이션 도구인 [AhkVimLike](https://gith
 
 ## how to use
 
-Application Context 키는 복사하기 (^c), Capslock 키는 붙여넣기 (^v) 기능을 합니다.
+[Application Context](https://www.google.co.kr/search?lr=&complete=1&hl=ko&biw=960&bih=482&tbm=isch&sa=1&q=keyboard+application+context+key&oq=keyboard+application+context+key&gs_l=img.3...4612.6761.0.6944.11.10.1.0.0.0.225.985.0j5j1.6.0....0...1c.1.64.img..11.0.0.-p4qFuTqG24) 키는 복사하기 (^c), Capslock 키는 붙여넣기 (^v) 기능을 합니다.
 
 __^c__ : control + c 의 기능 자체는 변함이 없습니다. 단, 복사를 할 때마다 복사한 내용이 AhkClipboardReg 의 히스토리에 보관됩니다.
 
